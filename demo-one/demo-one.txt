@@ -1,1 +1,36 @@
 Learn about Expo Go, the free, open-source sandbox app for learning and experimenting with React Native on Android and iOS.
+
+<View>
+It is often used to create layout
+structures for other components
+It has number of props that can be used
+to control its appearance & behavior
+<View> uses flexbox layout by default
+Which makes it really easy to
+control how its child components
+are laid out within the container
+
+///////////////////////////////////////////////////
+
+These components are
+perfect for creating
+→ Buttons
+→ Links
+→ Other interactive elements
+
+
+
+TouchableOpacity
+If you're looking to create a button or
+another interactive element that fades
+in opacity when pressed, you can use
+TouchableOpacity Component.
+Think of it like a cousin to the
+Button component in React but have more room for =>
+Customization Flexibility
+
+
+Flatlist
+Which is used for rendering a long list of
+items that need to be scrolled efficiently
+It's like the map function in React
