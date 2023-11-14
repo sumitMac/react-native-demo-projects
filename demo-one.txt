@@ -34,3 +34,5 @@ Flatlist
 Which is used for rendering a long list of
 items that need to be scrolled efficiently
 It's like the map function in React
+
+Map use for small list.
