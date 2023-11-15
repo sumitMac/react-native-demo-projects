@@ -37,7 +37,8 @@ It's like the map function in React
 
 Map use for small list.
 
-Scrollview
+ScrollView
 its like overflow scroll in html
 
 SafeAreaView
+The purpose of SafeAreaView is to render content within the safe area boundaries of a device. It is currently only applicable to iOS devices with iOS version 11 or later.
