@@ -36,3 +36,8 @@ items that need to be scrolled efficiently
 It's like the map function in React
 
 Map use for small list.
+
+Scrollview
+its like overflow scroll in html
+
+SafeAreaView
